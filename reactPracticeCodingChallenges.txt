@@ -1,0 +1,64 @@
+React coding examples
+
+1)  JavaScript | React | Contact Form - Finish the form so it has all following features: user can log in, so name and email are filled-in, after form is sent a Thank You message should appear.
+
+
+2) Hard 
+
+React | Simple Website Builder - This task evaluates the candidate's skills in React, Redux and redux-form
+
+3) Hard 
+JavaScript | React, Redux | Address Book - Implement missing features of a small React web application built on top of Redux.
+
+
+4) Easy 
+JavaScript | React | Search-Engine Application - Implement an application to search and filter products in an online shop.
+
+5) Easy 
+Javascript | React | Calendar Notes - Implement an application with which the user can add a note for a date they choose from a calendar.
+
+6) Easy 
+The TextInput component renders an input element in the DOM and accepts a ref that is forwarded to that input element. Finish the FocusableInput component:
+
+The component should accept a focused prop.
+When the focused prop is changed from false to true, and the input is not focused, it should receive the focus.
+If on mounting the focused prop is true, the input should receive the focus.
+
+
+7) Easy TodoList
+
+Write a TodoList component that expects an items prop, and a list of objects, each with text and done properties.
+
+TodoList also accepts an onItemClick function prop, which should be called when a user clicks an item in the list, if the item is not marked as done. Otherwise, the onItemClick should not be called and the click event itself should not be propagated further. The function should be called with the item object from the items list as the first parameter and the event as the second parameter.
+
+8) Hard
+
+This application should allow the user to update their username by inputting a custom value and clicking the button.
+
+The Username component is finished and should not be changed, but the App component is missing parts. Finish the App component so that the Username component displays the inputted text when the button is clicked.
+
+The App component should use the React.useRef Hook to pass the input to the Username component for the input element and for the Username component.
+
+For example, if the user inputs a new username of "John Doe" and clicks the button, the div element with id root should look like this:
+
+<div><button>Change Username</button><input type="text"><h1>John Doe</h1></div>
+
+9) https://github.com/StreamCo/react-coding-challenge
+
+10) https://github.com/uber-archive/coding-challenge-tools
+
+11) https://www.topcoder.com/challenges/30055981/?type=develop&tab=details
+
+12) https://github.com/DemandHub/react-coding-challenge
+
+13) https://www.hackerearth.com/challenges/hiring/SmartQ-NodeJS-Hiring-challenge/
+
+14) https://daveceddia.com/react-practice-projects/
+
+15)React Native | Movie Store - Implement an application which allows users to buy all the movies they can imagine.
+
+16) https://github.com/enterloper/react-redux-code-challenge-2
+
+17) https://github.com/sudheerj/reactjs-interview-questions
+
+18) https://github.com/AntoniusGolly/coding-challenge-react
